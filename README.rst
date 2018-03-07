@@ -5,6 +5,9 @@ ngsqc
        :target: https://www.travis-ci.org/kongdeju/ngsqc
 .. image:: https://readthedocs.org/projects/ngsqc/badge/?version=latest
    :target: http://ngsqc.readthedocs.io/en/latest/?badge=latest
+.. image:: https://codecov.io/gh/Penghui-Wang/ngsq/branch/master/graph/badge.svg
+     :target: https://codecov.io/gh/Penghui-Wang/ngsq
+
 
 
 Add a short description here!
